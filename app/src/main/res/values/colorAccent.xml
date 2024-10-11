@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define the color accent used in your app -->
+    <color name="colorAccent">#1999DD</color> <!-- Example color, replace with your desired color -->
+</resources>
