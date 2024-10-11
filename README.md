@@ -1,4 +1,4 @@
-# 🎮 LinkedIn-Like Match Game
+# 🎮 Match Game
 
 ## Overview
 
